@@ -1,21 +1,21 @@
-// console.log("Hello World!");
+console.log("Hello World!");
 
-// console.log("Welcome to Apna College");
+console.log("Welcome to Apna College");
 
-// console.log("Akash Mukherjee");
+console.log("Akash Mukherjee");
 
-// console.log("I love Java Script");
+console.log("I love Java Script");
 
 
 // Variable Declaration in js
 
-// my_name = "Tony Strak";
+my_name = "Tony Strak";
 
-// console.log(my_name);
+console.log(my_name);
 
-// price = 99.95;
+price = 99.95;
 
-// console.log(price)
+console.log(price)
 
 
 // Let keyword
