@@ -37,4 +37,10 @@ JavaScript is the backbone of interactive web development. My goal is to build a
 
 ## 📬 **Contact Me**  
 
-💌 **Email**: [akashmukhopadh
+💌 **Email**: [akashmukhopadhayay@gmail.com](mailto:akashmukhopadhayay@gmail.com)  
+💼 **LinkedIn**: [Your LinkedIn Profile](#)  
+🌐 **GitHub**: [Your GitHub Profile](#)  
+
+---
+
+### **Let’s learn JavaScript together! 💻✨**
