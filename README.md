@@ -1,6 +1,6 @@
 # 📜 **JavaScript Preparation Repository**  
 
-![JavaScript Preparation Banner](https://via.placeholder.com/1200x300.png?text=JavaScript+Preparation)  
+![JavaScript Preparation Banner](https://via.placeholder.com/1200x400.png?text=Master+JavaScript+Step+by+Step)  
 
 > 🚀 **Welcome to my JavaScript Preparation Repository!**  
 
