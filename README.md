@@ -1,45 +1,40 @@
 # 📜 **JavaScript Preparation Repository**  
 
-![JavaScript Preparation Banner](https://via.placeholder.com/1200x400/007BFF/FFFFFF?text=Master+JavaScript+Step+by+Step)  
-
 > 🚀 **Welcome to my JavaScript Preparation Repository!**  
 
-This repository is a complete log of my JavaScript learning journey, featuring topics, examples, and exercises. Join me as I master the building blocks of modern web development!  
+This repository documents my journey of mastering JavaScript, featuring key concepts, examples, and practice exercises. Whether you're a beginner or revisiting the basics, feel free to explore and learn with me!  
 
---- 
+---
 
 ## 🗂️ **Repository Structure**  
 
 ### 📚 **Topics to Learn**  
-- [x] **Variables and Data Types** *(Completed)*  
-- [ ] **Operators** *(In progress)*  
-- [ ] **Conditions** *(In progress)*  
-- [ ] **Loops** *(In progress)*  
-- [ ] **Arrays** *(In progress)*  
-- [ ] **Objects** *(In progress)*  
-- [ ] **Functions** *(In progress)*  
-- [ ] **DOM Manipulation** *(Coming soon!)*  
-- [ ] **ES6+ Features** *(Coming soon!)*  
+- ✅ **Variables and Data Types** *(Completed)*  
+- 🔄 **Operators** *(In progress)*  
+- 🔄 **Conditions** *(In progress)*  
+- 🔄 **Loops** *(In progress)*  
+- 🔄 **Arrays** *(In progress)*  
+- 🔄 **Objects** *(In progress)*  
+- 🔄 **Functions** *(In progress)*  
+- ⏳ **DOM Manipulation** *(Coming soon!)*  
+- ⏳ **ES6+ Features** *(Coming soon!)*  
 
 ---
 
 ## 🛠️ **How to Use This Repository?**  
-1. Browse the repository to find JavaScript concepts categorized by topic.  
-2. Review the code snippets and explanations to solidify your understanding.  
-3. Practice by modifying or extending the provided examples.  
+
+1. **Explore Topics:** Browse through the files categorized by topic.  
+2. **Learn by Example:** Check out the code snippets with explanations.  
+3. **Practice:** Try modifying or extending the examples to deepen your understanding.  
 
 ---
 
 ## 🌟 **Motivation**  
-Learning JavaScript is a stepping stone for creating dynamic web applications and mastering front-end development. With this repository, I aim to build a strong foundation in JavaScript before progressing to advanced topics and frameworks.  
+
+JavaScript is the backbone of interactive web development. My goal is to build a solid foundation in JavaScript before advancing to modern frameworks and libraries. This repository serves as a roadmap to track my progress and share my learning journey.  
 
 ---
 
 ## 📬 **Contact Me**  
-💌 **Email**: [akashmukhopadhayay@gmail.com](mailto:akashmukhopadhayay@gmail.com)  
-💼 **LinkedIn**: [Your LinkedIn Profile](#)  
-🌐 **GitHub**: [Your GitHub Profile](#)  
 
----
-
-### **Let’s learn JavaScript together! 💻✨**
+💌 **Email**: [akashmukhopadh
