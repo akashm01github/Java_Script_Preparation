@@ -1,18 +1,18 @@
 // String Methods
-// let str = "Frontend Developer.";
+let str = "Frontend Developer.";
 
-// let newStr = str.toLocaleLowerCase();
-
-
-// console.log(str);
-// console.log(newStr);
-
-// let myStr = "Akash";
-
-// console.log(myStr.replace("A" , "Fo"));
+let newStr = str.toLocaleLowerCase();
 
 
-// console.log(myStr.charAt(0));
+console.log(str);
+console.log(newStr);
+
+let myStr = "Akash";
+
+console.log(myStr.replace("A" , "Fo"));
+
+
+console.log(myStr.charAt(0));
 
 
 let userName  = prompt("Enter the Email: ");
