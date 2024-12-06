@@ -168,3 +168,5 @@ companies.splice(1,1,"Ola");
 
 companies.push("Amazon");
 console.log(companies); 
+
+console.log("Javascript Day-4 Completed.");
