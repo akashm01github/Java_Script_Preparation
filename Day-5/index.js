@@ -4,17 +4,17 @@
 
 // Function Defination
 
-// function functionName () {
-//     console.log("Hi, My name is Akash Mukherjee.");
-//     console.log("I am a Frontend Developer :) ");
-// }
+function functionName () {
+    console.log("Hi, My name is Akash Mukherjee.");
+    console.log("I am a Frontend Developer :) ");
+}
 
 // Function call
 
-// functionName();
-// functionName();
-// functionName();
-// functionName();
+functionName();
+functionName();
+functionName();
+functionName();
 
 // Function with Parameter
 
@@ -112,11 +112,11 @@ arr.forEach(function akash(val,idx,arr){
     console.log(val,idx,arr);
 })
 
-// console.log("Using Arrow Function");
+console.log("Using Arrow Function");
 // Using Arrow Function 
-// arr.forEach((i)=>{
-//     console.log(i);
-// })
+arr.forEach((i)=>{
+    console.log(i);
+})
 
 // For a given array of numbers, print the square of each value using the forEach loop.
 let myArr = [2,3,4,5,6,7];
