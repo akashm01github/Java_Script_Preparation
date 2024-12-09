@@ -9,27 +9,27 @@ console.dir(heading);
 
 // Selecting elemet using class
 
-// let myParagraph = document.getElementsByClassName("para");
+let myParagraph = document.getElementsByClassName("para");
 
-// console.log(myParagraph);
+console.log(myParagraph);
 
-// console.dir(myParagraph);
-
-
-// let button  = document.getElementById("btn");
-
-// console.dir(button);
-
-// console.log(button);
+console.dir(myParagraph);
 
 
-// let paras = document.getElementsByTagName("p");
+let button  = document.getElementById("btn");
 
-// console.dir(paras);
+console.dir(button);
+
+console.log(button);
 
 
-// let myPara  = document.querySelector("p");
-// console.dir(myPara);
+let paras = document.getElementsByTagName("p");
+
+console.dir(paras);
+
+
+let myPara  = document.querySelector("p");
+console.dir(myPara);
 
 
 let para = document.getElementsByClassName("para");
