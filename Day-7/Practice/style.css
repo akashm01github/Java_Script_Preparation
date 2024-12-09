@@ -1,0 +1,16 @@
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 2vh;
+    
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+    border-radius: 8px;
+
+}
