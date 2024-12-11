@@ -14,9 +14,9 @@ This repository documents my journey of mastering JavaScript, featuring key conc
 - ✅ **Conditions** *(In progress)*  
 - ✅ **Loops** *(In progress)*  
 - ✅ **Arrays** *(In progress)*  
-- 🔄 **Objects** *(In progress)*  
-- 🔄 **Functions** *(In progress)*  
-- ⏳ **DOM Manipulation** *(Coming soon!)*  
+- ✅ **Objects** *(In progress)*  
+- ✅ **Functions** *(In progress)*  
+- ✅ **DOM Manipulation** *(Coming soon!)*  
 - ⏳ **ES6+ Features** *(Coming soon!)*  
 
 ---
