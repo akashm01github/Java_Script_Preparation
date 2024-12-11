@@ -10,13 +10,13 @@ This repository documents my journey of mastering JavaScript, featuring key conc
 
 ### 📚 **Topics to Learn**  
 - ✅ **Variables and Data Types** *(Completed)*  
-- ✅ **Operators** *(In progress)*  
-- ✅ **Conditions** *(In progress)*  
-- ✅ **Loops** *(In progress)*  
-- ✅ **Arrays** *(In progress)*  
-- ✅ **Objects** *(In progress)*  
-- ✅ **Functions** *(In progress)*  
-- ✅ **DOM Manipulation** *(Coming soon!)*  
+- ✅ **Operators** *(Completed)*  
+- ✅ **Conditions** *(Completed)*  
+- ✅ **Loops** *(Completed)*  
+- ✅ **Arrays** *(Completed)*  
+- ✅ **Objects** *(Completed)*  
+- ✅ **Functions** *(Completed)*  
+- ✅ **DOM Manipulation** *(Completed)*  
 - ⏳ **ES6+ Features** *(Coming soon!)*  
 
 ---
