@@ -1,0 +1,14 @@
+div{
+    width: 400px;
+    height: 80px;
+    background-color: red;
+    margin: 10vh auto;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

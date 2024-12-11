@@ -1,0 +1,11 @@
+.dark{
+    background-color: black;
+    color: yellow;
+    font-size: 40px;
+}
+
+.light{
+    background-color: white;
+    color: red;
+    font-size: 20px;
+}
