@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* FONT FAMILY */
+/* font-family: "Poppins", sans-serif; */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #FFDECF;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+
+/* HEADING */
+h1{
+    font-size: 3.5rem;
+}
+
+/* CONTAINER CSS */
+.container{
+    height: 70vh;
+    /* background-color: yellow; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+
+
+/* GAME CSS */
+
+.game{
+    width: 70vmin;
+    height: 60vmin;
+    /* background-color: red; */
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+    
+}
+
+/* BOX CSS */
+.box{
+    width: 18vmin;
+    height: 18vmin;
+
+    border-radius: 1rem;
+    border: none;
+
+    background-color: #091057;
+    color: white;
+
+    font-size: 3rem;
+    font-weight: 400;
+
+    cursor: pointer;
+}
+
+
+/* RESEY BUTTON */
+
+#reset_btn{
+    
+    width: 20vmin;
+    height: 10vmin;
+    font-size: 2.5vmin;
+    background-color: #3E2C41;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.2s;
+    
+}
+
+#reset_btn:hover{
+    background-color: #B31312;
+    box-shadow: 0px 8px 50px 8px #FF0000;
+}
+
+
+
+.msg_container{
+    /* background-color: red; */
+    width: 100%;
+    font-size: 20px;
+}
+
+.hide{
+    display: none;
+}
