@@ -70,6 +70,7 @@ class Doctor extends Person {
 
 // let aritra = new Doctor();
 
+console.log("JavaScript Day-12");
 
 
 
