@@ -13,7 +13,9 @@ getData(1,()=>{
         console.log("Getting Data3.....");
         getData(3,()=>{
             console.log("Getting Data4.....");
-            getData(4);
+            getData(4,()=>{
+                getData(5);
+            });
         });
     });
 });
