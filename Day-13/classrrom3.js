@@ -1,24 +1,24 @@
 // Promise in JS 
 
-// const getPromise = ()=>{
-//     return new Promise((resolve, reject)=>{
-//         console.log("My Name is Akash Mukherjee");
-//         // resolve("success");
-//         reject("Network error");
+const getPromise = ()=>{
+    return new Promise((resolve, reject)=>{
+        console.log("My Name is Akash Mukherjee");
+        // resolve("success");
+        reject("Network error");
     
-//     }) 
-// };
+    }) 
+};
 
-// let myPromise = getPromise();
+let myPromise = getPromise();
 
-// myPromise.then((res)=>{
-//     console.log("Prmise Fillfill",res);
-// })
+myPromise.then((res)=>{
+    console.log("Prmise Fillfill",res);
+})
 
 
-// myPromise.catch((err)=>{
-//     console.log("Promise Rejected",err);
-// })
+myPromise.catch((err)=>{
+    console.log("Promise Rejected",err);
+})
 
 // Function-1
 function asyncFunction(){
