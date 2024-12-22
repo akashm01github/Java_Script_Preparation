@@ -1,0 +1,38 @@
+<div class="container">
+│
+├── <h2>Currency Converter</h2>
+│
+├── <form>
+│   │
+│   ├── <div class="amount">
+│   │    ├── <p>Enter Amount</p>
+│   │    └── <input type="text" value="100">
+│   │
+│   ├── <div class="dropdown">
+│   │    │
+│   │    ├── <div class="from">
+│   │    │    ├── <p>From</p>
+│   │    │    └── <div class="select_continer">
+│   │    │         ├── <img src="...">
+│   │    │         └── <select>
+│   │    │              ├── <option>USD</option>
+│   │    │              ├── <option>INR</option>
+│   │    │              ├── <option>EUR</option>
+│   │    │              └── <option>AUD</option>
+│   │    │
+│   │    ├── <i class="fa-solid fa-arrow-right-arrow-left"></i>
+│   │    │
+│   │    └── <div class="to">
+│   │         ├── <p>TO</p>
+│   │         └── <div class="select_continer">
+│   │              ├── <img src="...">
+│   │              └── <select>
+│   │                   ├── <option>USD</option>
+│   │                   ├── <option>INR</option>
+│   │                   ├── <option>EUR</option>
+│   │                   └── <option>AUD</option>
+│   │
+│   ├── <div class="msg">
+│   │    └── 1 USD = 80 INR
+│   │
+│   └── <button>Get Exchange Rate</button>
