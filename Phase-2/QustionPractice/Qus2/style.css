@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    width: 100%;
+    height: 100%;
+}
+.image_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 30px;
+    gap:20px;
+}
+img{
+    width: 50%;
+}
+
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    border: none;
+    background-color: #A31D1D;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    position: absolute;
+    bottom: 20%;
+    right: 45%;
+    font-weight: bold;
+    cursor: pointer;
+}
