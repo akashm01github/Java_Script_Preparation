@@ -2,7 +2,7 @@ const myName  = "Akash";
 
 let age  = 24;
 
-let villageName  = "Chhotobainan";
+let villageName  = "Bhaliya";
 
 
 let country  = "India";
